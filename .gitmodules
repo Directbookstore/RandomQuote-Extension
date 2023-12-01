@@ -1,0 +1,3 @@
+[submodule "RandomQuote-Extension"]
+	path = RandomQuote-Extension
+	url = https://github.com/Directbookstore/RandomQuote-Extension.git
